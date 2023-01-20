@@ -14,7 +14,7 @@ This script allows us to find the tweets in that location and save it as a CSV f
 https://downgit.github.io/#/home?url=https://github.com/davidng8/lab2GEOG458/blob/main/assets/twsearch-result-2.csv
 
 * Vancouver Data
-<a id="raw-url" href="[https://raw.githubusercontent.com/github-username/project/master/filename](https://github.com/davidng8/lab2GEOG458/blob/main/assets/twsearch-result-3.csv)">Download File</a>
+<a id="raw-url" href="https://github.com/davidng8/lab2GEOG458/blob/main/assets/twsearch-result-3.csv">Download File</a>
 
 # Locations and Key Search Terms
 ## Key Terms and Parameters
