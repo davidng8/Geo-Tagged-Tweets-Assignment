@@ -5,6 +5,17 @@
 In lab 2, we are tasked to use a script "tweets.inynb" to search through geo-tagged tweets using latitude, longitude, and the radius buffer of the coordinate. 
 This script allows us to find the tweets in that location and save it as a CSV file with all the data containing the location and the tweet, with the CSV format data we use this data on WordArt.com
 
+# Download Links for CSV Files
+
+* Seattle Data
+https://downgit.github.io/#/home?url=https://github.com/davidng8/lab2GEOG458/blob/main/assets/twsearch-result-1.csv
+
+* Los Angeles Data
+https://downgit.github.io/#/home?url=https://github.com/davidng8/lab2GEOG458/blob/main/assets/twsearch-result-2.csv
+
+* Vancouver Data
+https://downgit.github.io/#/home?url=https://github.com/davidng8/lab2GEOG458/blob/main/assets/twsearch-result-3.csv
+
 # Locations and Key Search Terms
 ## Key Terms and Parameters
 
