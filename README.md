@@ -28,13 +28,13 @@ This script allows us to find the tweets in that location and save it as a CSV f
 *  Location based on coordinate
 
 #### Seattle, WA (47.62039945423961,-122.30359179186148) with a 15.8 mile buffer
-* ![SeattleWordArt](https://github.com/davidng8/lab2GEOG458/blob/main/img/SeattleTweets.png)
+* ![SeattleWordArt](https://github.com/davidng8/lab2GEOG458/blob/main/img/Seattle.png)
 
 #### Los Angeles, CA (34.123393734824205,-118.28336038467629) with a 20.1 mile buffer
-* ![LosAngelesWordArt](https://github.com/davidng8/lab2GEOG458/blob/main/img/LosAngelesTweets.png)
+* ![LosAngelesWordArt](https://github.com/davidng8/lab2GEOG458/blob/main/img/LA.png)
 
 #### Vancouver, BC (Canada) (49.27496483170055, -123.09163322030105) with a 18 mile buffer
-* ![VancouverBCWordArt](https://github.com/davidng8/lab2GEOG458/blob/main/img/VancouverCanadaTweets.png)
+* ![VancouverBCWordArt](https://github.com/davidng8/lab2GEOG458/blob/main/img/Vancouver.png)
 
 ## Findings from data and differences between Word Arts
 
